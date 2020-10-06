@@ -1,5 +1,5 @@
 import React from "react"
-import Link from "gatsby-Link"
+import { Link } from "gatsby"
 
 class Counter extends React.Component {
     constructor() {
