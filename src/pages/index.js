@@ -13,6 +13,6 @@ export default function Home() {
     <br></br>
     <Link to="/page-2/">Page 2</Link>
     <br></br>
-    <Link to="/counter-file/">Counter</Link>
+    <Link to="/counter/">Counter</Link>
   </div>
 }
