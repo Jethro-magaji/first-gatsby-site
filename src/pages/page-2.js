@@ -1,5 +1,5 @@
 import React from "react"
-import Link from "gatsby-Link"
+import { Link } from "gatsby"
 
 export default function Home() {
     return <div style={{ color: 'tomato' }}>
