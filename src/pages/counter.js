@@ -15,7 +15,7 @@ class Counter extends React.Component {
             <br></br>
             <br></br>
             <br></br>
-            <Link to="/index/">Back</Link>
+            <Link to="/index">Back</Link>
         </div>
     }
 }
